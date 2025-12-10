@@ -1,1 +1,0 @@
-py "$env:USERPROFILE\thing.py"
