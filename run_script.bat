@@ -1,1 +1,0 @@
-python "C:Users\thing.py"
